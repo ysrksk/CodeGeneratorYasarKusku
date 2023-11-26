@@ -30,3 +30,5 @@ Eğer projeniz bu kodlar ile oluşturulduysa ya da .NetCore7 versiyonlarını ku
 Yapmanız gereken projeAdını vermek Dosya yolunu seçmek ve istediğiniz entity leri yazmak. Dİ bağlılıklarını DBContex i güncelleyerek, Class View Controller ları ekliyor.
 
 Projemiz VisualStudio2022 ve Core 7 versiyonunu kullanması sebebiyle uygulamayı kullanırken VisualStudio2022 yi kullanmak önemlidir. Yoksa kod çalışmayacaktır.
+
+Denemek için CodeGeneratorYk.7z klasörünü indirip exe dosyasını çalıştırabilirsiniz. Proje Console olarak oluşturulmuştur.
